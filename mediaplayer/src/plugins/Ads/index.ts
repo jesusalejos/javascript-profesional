@@ -1,6 +1,6 @@
 import MediaPlayer from '../../MediaPlayer';
 import Ads, { Ad } from './Ads';
-
+ console.log("hola")
 class AdsPlugin {
   private ads: Ads;
   private player: MediaPlayer;
